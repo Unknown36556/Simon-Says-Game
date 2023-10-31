@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #ffadad;
+}
+
+.green {
+    background-color: #caffbf;
+}
+
+.orange {
+    background-color: #ffd6a5;
+}
+
+.blue {
+    background-color: #9bf6ff;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: grey;
+}
